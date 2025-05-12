@@ -60,7 +60,7 @@ npm run build
 
 ## 🌐 Live Demo
 
-👉 [View Live on Vercel](https://your-vercel-link.vercel.app)
+👉 [View Live on Vercel](https://productn-variant-manager.vercel.app/)
 
 ---
 
@@ -86,7 +86,7 @@ src/
 * [x] Effective use of React Query & Shadcn UI
 * [x] Clean, reusable components
 * [x] Bonus: Extra features and external API integration
-* [x] Public GitHub repo with README, screenshots, a
+* [x] Public GitHub repo with README, screenshots, live deployed link
 
 ## 👨‍💻 Author
 
