@@ -1,5 +1,4 @@
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-import type { Product, Variant } from "../types/index";
+import type { Product } from "../types/index";
 
 // Fake Store API integration
 export const fetchProductsFromAPI = async (): Promise<Product[]> => {
